@@ -24,7 +24,7 @@ The general process is:
 - Create a personal copy (a 'fork') of the assignment into your GitHub account.
 - Download your personal copy to your computer (referred to as 'cloning').
 - Complete the required work.
-- Push your completed code back up to your GitHub repo.
+- Push your completed code back u`` to your GitHub repo.
 - Submit your completed work in Canvas through the CodeGrade window.
 
 In this assignment, you'll learn the workflow that you will be using to complete
@@ -165,7 +165,7 @@ This assignment
   1) has a file named myfile.md
 
 1) This assignment
-      has a file named myfile.md:
+      has a file named myfilnpm ie.md:
     AssertionError: No file named 'myfile.md' found. Create one in the root of the assignment's directory: value: expected './myfile.md' to exist
 
 1 passing (5ms)
